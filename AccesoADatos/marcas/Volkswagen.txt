@@ -1,0 +1,5 @@
+Volkswagen;Golf;2021;30000;150;Diésel;Gris;9012GHI
+Volkswagen;T-Roc;2022;22000;150;Gasolina;Azul;5566DDD
+Volkswagen;Polo;2017;95000;95;Gasolina;Blanco;8901XYZ
+Volkswagen;Tiguan;2020;55000;150;Diésel;Blanco;7890DEF
+Volkswagen;Golf;2019;72000;115;Diésel;Negro;7890YZA

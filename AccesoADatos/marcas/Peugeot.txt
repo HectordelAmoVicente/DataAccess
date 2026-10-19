@@ -1,0 +1,2 @@
+Peugeot;208;2020;48000;100;Gasolina;Amarillo;1234MNO
+Peugeot;3008;2021;44000;130;Diésel;Gris;1234EFG

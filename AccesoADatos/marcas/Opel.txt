@@ -1,0 +1,1 @@
+Opel;Corsa;2020;49000;100;Gasolina;Naranja;5678HIJ

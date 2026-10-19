@@ -1,0 +1,5 @@
+Seat;Ibiza;2018;85000;95;Gasolina;Rojo;5678DEF
+Seat;Leon;2020;50000;130;Gasolina;Blanco;3344CCC
+Seat;Ateca;2021;35000;150;Diésel;Plata;4567XYZ
+Seat;Arona;2022;20000;110;Gasolina;Gris;3456DEF
+Seat;Ibiza;2021;38000;110;Gasolina;Azul;3456YZA

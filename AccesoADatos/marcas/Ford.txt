@@ -1,0 +1,5 @@
+Ford;Focus;2019;60000;125;Gasolina;Azul;7890MNO
+Ford;Kuga;2021;40000;190;Híbrido;Rojo;9900FFF
+Ford;Fiesta;2018;80000;100;Gasolina;Negro;6789ABC
+Ford;Mustang Mach-E;2022;14000;269;Eléctrico;Rojo;5678GHI
+Ford;Focus;2021;34000;125;Híbrido;Gris;5678BCD

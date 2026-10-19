@@ -1,0 +1,1 @@
+marca;modelo;año;kilometraje;potencia;tipoCombustible;color;matricula

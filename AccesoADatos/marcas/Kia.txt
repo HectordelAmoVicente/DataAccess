@@ -1,0 +1,2 @@
+Kia;Sportage;2022;29000;136;Diésel;Negro;3456MNO
+Kia;Ceed;2021;36000;120;Gasolina;Plata;3456EFG

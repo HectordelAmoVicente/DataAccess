@@ -1,0 +1,2 @@
+BMW;Serie 3;2019;70000;184;Gasolina;Negro;9012PQR
+BMW;X1;2021;39000;150;Diésel;Blanco;9012NOP

@@ -1,0 +1,5 @@
+Tesla;Model 3;2022;15000;283;Eléctrico;Negro;3456JKL
+Tesla;Model Y;2023;12000;347;Eléctrico;Blanco;7788EEE
+Tesla;Model S;2020;60000;670;Eléctrico;Rojo;2345ABC
+Tesla;Model X;2021;28000;1020;Eléctrico;Gris;1234GHI
+Tesla;Model 3;2023;9000;283;Eléctrico;Blanco;1234BCD

@@ -1,0 +1,2 @@
+Mercedes-Benz;Clase A;2021;31000;136;Diésel;Plata;7890STU
+Mercedes-Benz;Clase C;2020;58000;194;Diésel;Azul;3456QRS

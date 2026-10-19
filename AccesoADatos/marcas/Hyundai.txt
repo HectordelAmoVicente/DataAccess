@@ -1,0 +1,2 @@
+Hyundai;Tucson;2021;42000;150;Gasolina;Blanco;9012JKL
+Hyundai;i30;2020;51000;120;Gasolina;Rojo;9012BCD

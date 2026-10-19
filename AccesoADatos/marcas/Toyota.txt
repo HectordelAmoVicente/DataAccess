@@ -1,0 +1,5 @@
+Toyota;Corolla;2020;45000;122;Híbrido;Blanco;1234ABC
+Toyota;Yaris;2021;25000;116;Híbrido;Gris;1122BBB
+Toyota;RAV4;2019;75000;218;Híbrido;Negro;1235XYZ
+Toyota;C-HR;2022;18000;184;Híbrido;Azul;9012ABC
+Toyota;Corolla;2023;8000;140;Híbrido;Negro;9012VWX

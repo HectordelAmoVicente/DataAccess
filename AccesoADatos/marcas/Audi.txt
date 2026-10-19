@@ -1,0 +1,2 @@
+Audi;A4;2020;52000;150;Diésel;Gris;3456STU
+Audi;Q3;2022;24000;150;Gasolina;Gris;5678NOP
