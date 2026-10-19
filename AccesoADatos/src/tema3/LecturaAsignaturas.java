@@ -16,7 +16,7 @@ public class LecturaAsignaturas {
 
         try{
             DocumentBuilder builder=factory.newDocumentBuilder();
-            Document document=builder.parse(new File("C:\\Users\\DAM_201\\Documents\\xml\\asignaturas.xml"));
+            Document document=builder.parse(new File("resources\\asignaturas.xml"));
             document.getDocumentElement().normalize();
 
             System.out.printf("Raíz del documento: "+document.getDocumentElement().getNodeName());

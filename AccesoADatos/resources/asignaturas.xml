@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asignaturas>
+    <asignatura nombre="Acceso a Datos">
+        <horas>126</horas>
+        <profesor>Miguel</profesor>
+    </asignatura>
+    <asignatura nombre="Empresa e iniciativa emprendedora">
+        <horas>63</horas>
+        <profesor>Juanma</profesor>
+    </asignatura>
+    <asignatura nombre="Sistemas de Gestión Empresarial">
+        <horas>126</horas>
+        <profesor>Miguel</profesor>
+    </asignatura>
+</asignaturas>

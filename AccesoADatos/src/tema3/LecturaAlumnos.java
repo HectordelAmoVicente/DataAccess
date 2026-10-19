@@ -15,7 +15,7 @@ public class LecturaAlumnos{
 
         try{
             DocumentBuilder builder=factory.newDocumentBuilder();
-            Document document=builder.parse(new File("C:\\Users\\DAM_201\\Documents\\xml\\Alumnos.xml"));
+            Document document=builder.parse(new File("resources\\alumnos.xml"));
             document.getDocumentElement().normalize();
 
             System.out.printf("Raíz del documento: "+document.getDocumentElement().getNodeName());

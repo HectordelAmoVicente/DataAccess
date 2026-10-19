@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alumnos>
+    <alumno>
+        <nombre>Pepe</nombre>
+        <apellidos>Perez</apellidos>
+        <notaAD>1</notaAD>
+        <notaPSP>1</notaPSP>
+        <notaSGE>3</notaSGE>
+    </alumno>
+    <alumno>
+        <nombre>Alba</nombre>
+        <apellidos>Alvarez</apellidos>
+        <notaAD>2</notaAD>
+        <notaPSP>3</notaPSP>
+        <notaSGE>4</notaSGE>
+    </alumno>
+</alumnos>
